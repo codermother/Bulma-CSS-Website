@@ -1,0 +1,9 @@
+.hero {
+    background: url("./../images/heroImage.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar .container {
+    border-bottom: 1px solid #fff;
+}
