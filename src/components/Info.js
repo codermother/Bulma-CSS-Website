@@ -13,7 +13,7 @@ function Info() {
           </figure>
         </div>
         <div className="column ">
-          <div className="content mr-6 ml-6">
+          <div className="content ml-3">
             <h3>Hi Everyone!</h3>
             <p>
               <em>Lorem ipsum, </em> dolor sit amet consectetur adipisicing

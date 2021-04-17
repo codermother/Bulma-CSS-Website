@@ -4,6 +4,9 @@ import Hero from "./components/Hero";
 import Tiles from "./components/Tiles.js";
 import Info from "./components/Info";
 import SocialInfo from "./components/SocialInfo";
+import Team from "./components/Team";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -12,6 +15,9 @@ function App() {
       <Info />
       <Tiles />
       <SocialInfo />
+      <Team />
+      <Contact />
+      <Footer />
     </div>
   );
 }
